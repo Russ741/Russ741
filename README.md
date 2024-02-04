@@ -8,4 +8,4 @@ Selected works:
   * [Hypnobrot](https://github.com/Russ741/hypnobrot) (JS and GLSL) - A fragment shader depicting an animated Mandelbrot curve, lovingly rendered in Lisa Frank-esque hypercolor.
   * [Droste P5](https://github.com/Russ741/droste-p5) (p5.js) - A progression of animated riffs on the [Droste effect](https://en.wikipedia.org/wiki/Droste_effect).
   * [Altima Game](https://github.com/Russ741/altima-game/) (Flutter) - Something I made for a friend who was having a bad car day. Now with sound!
-  * [2023 Advent Of Code](https://github.com/Russ741/2023-advent-of-code) (Python) - (Almost) all of my solutions to the [2023 edition](https://adventofcode.com/2023) of [Advent of Code](https://adventofcode.com/2023/about).
+  * [Advent Of Code 2023](https://github.com/Russ741/2023-advent-of-code) (Python) - (Almost) all of my solutions to the [2023 edition](https://adventofcode.com/2023) of [Advent of Code](https://adventofcode.com/2023/about).
